@@ -27,7 +27,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 <table>
   <tr>
     <td align="center"><img src="/assets/ls_bio.png" width="100"><br><b>Prof. Lee Swindlehurst</b><br><sub>Principal Investigator</sub><br><a href="https://engineering.uci.edu/users/lee-swindlehurst">[Website]</a> • <a href="https://scholar.google.com/citations?user=ibAcKWwAAAAJ&hl=en">[G-Scholar]</a></td>
-    <td align="center"><img src="/assets/mz_bio.JPG" width="100"><br><b>Mehdi Zafari</b><br><sub>PhD Student</sub><br><a href="https://mehdi-zafari.github.io">[Website]</a> • <a href="https://scholar.google.com/citations?user=lKiB9vIAAAAJ">[G-Scholar]</a></td>
+    <td align="center"><img src="/assets/mz_bio.JPG" width="100"><br><b>Mehdi Zafari</b><br><sub>PhD Student</sub><br><a href="https://mehdizd97.github.io">[Website]</a> • <a href="https://scholar.google.com/citations?user=lKiB9vIAAAAJ">[G-Scholar]</a></td>
   </tr>
 </table>
 
