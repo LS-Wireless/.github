@@ -1,7 +1,6 @@
 
 
 <div align="center">
-  <img src="/assets/logo.png" width="200" alt="LS Wireless Logo"/>
   <h1>LS Wireless</h1>
   <p><strong>Signal Processing & Optimization for Next-Gen Wireless Networks</strong></p>
 </div>
