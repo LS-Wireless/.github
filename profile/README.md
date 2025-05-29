@@ -55,7 +55,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 | Repository | Description |
 |------------|-------------|
-| [`distributed-cellfree-isac`](https://github.com/ls-wireless/distributed-cellfree-isac) | Decentralized simulation framework for joint beamforming and power allocation in ISAC systems |
+| [`distributed-cellfree-isac`](https://github.com/MehdiZD97/distributed-cellfree-isac) | Decentralized simulation framework for joint beamforming and power allocation in ISAC systems |
 
 ---
 
