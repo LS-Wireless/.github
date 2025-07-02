@@ -53,9 +53,10 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ### 📂 Featured Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [`distributed-cellfree-isac`](https://github.com/MehdiZD97/distributed-cellfree-isac) | Decentralized simulation framework for joint beamforming and power allocation in ISAC systems |
+| Repository | Description | Main Contributors |
+|------------|-------------|-------------|
+| [`distributed-cellfree-isac`](https://github.com/MehdiZD97/distributed-cellfree-isac) | Decentralized simulation framework for joint beamforming and power allocation in ISAC systems | Mehdi Zafari |
+| [`SecureCoder-NR-RIS`](https://github.com/LS-Wireless/SecureCoder-NR-RIS) | The implementation of SecureCoder based on the enhanced Proximal Policy Optimization (PPO) algorithm | Haoyu Wang |
 
 ---
 
