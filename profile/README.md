@@ -51,9 +51,9 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 #### 🎓 Alumni and Former Members
 
 - **Jiaqi Xu** – Postdoctoral Researcher (2023-2025), now at [APPLE](https://www.apple.com/)  
-  [Website](https://jazielxu.github.io/) • [G-Scholar](https://scholar.google.com/citations?hl=en&user=5f5fmnEAAAAJ)
-- **Hyuckjin Choi** – Postdoctoral Researcher (2024-2025), now at [SAMSUNG](https://research.samsung.com/)  
-  [Website](https://sites.google.com/view/hyuckjinchoi/home?authuser=0) • [G-Scholar](https://scholar.google.com/citations?user=KRGe0tIAAAAJ&hl=en&authuser=2&oi=sra)
+  Links: [Website](https://jazielxu.github.io/) • [G-Scholar](https://scholar.google.com/citations?hl=en&user=5f5fmnEAAAAJ)
+- **Hyuckjin Choi** – Postdoctoral Researcher (2024-2025), now at [LG Electronics](https://www.lg.com/global/)  
+  Links: [Website](https://sites.google.com/view/hyuckjinchoi/home?authuser=0) • [G-Scholar](https://scholar.google.com/citations?user=KRGe0tIAAAAJ&hl=en&authuser=2&oi=sra)
 
 ---
 
