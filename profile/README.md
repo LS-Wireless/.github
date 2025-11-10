@@ -60,11 +60,12 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ### 📂 Featured Repositories
 
-| Repository | Description | Main Contributors |
-|------------|-------------|-------------|
-| [`distributed-cellfree-isac`](https://github.com/MehdiZD97/distributed-cellfree-isac) | Decentralized simulation framework for joint beamforming and power allocation in ISAC systems | Mehdi Zafari |
-| [`SecureCoder-NR-RIS`](https://github.com/LS-Wireless/SecureCoder-NR-RIS) | The implementation of SecureCoder based on the enhanced Proximal Policy Optimization (PPO) algorithm | Haoyu Wang |
+| Repository                                                                                                | Description | Main Contributors |
+|-----------------------------------------------------------------------------------------------------------|-------------|-------------|
+| [`distributed-cellfree-isac`](https://github.com/MehdiZD97/distributed-cellfree-isac)                     | Decentralized simulation framework for joint beamforming and power allocation in ISAC systems | Mehdi Zafari |
+| [`SecureCoder-NR-RIS`](https://github.com/LS-Wireless/SecureCoder-NR-RIS)                                 | The implementation of SecureCoder based on the enhanced Proximal Policy Optimization (PPO) algorithm | Haoyu Wang |
 | [`Multi-Domain-Optimization-for-ISAC`](https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC) | Multi-domain optimization framework integrating EM shaping, baseband processing, and network cooperation for ISAC systems | Rang Liu |
+| [`ASSENT-CellFree-ISAC`](https://github.com/LS-Wireless/ASSENT-CellFree-ISAC)                        | Python/PyTorch framework for MILP and GNN-based association optimization in distributed cell-free integrated sensing and communication (ISAC) networks. | Mehdi Zafari |
 
 ---
 
