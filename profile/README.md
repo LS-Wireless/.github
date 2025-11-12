@@ -109,7 +109,13 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <tr>
     <td width="50%" valign="top">
 
-  <h3><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h3>
+[//]: # (  <h3><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h3>)
+  <p>
+  <a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">
+    <img alt="SecureCoder-NR-RIS"
+         src="https://img.shields.io/badge/distributed--cellfree--isac-%E2%86%97-0A84FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
   <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat">
