@@ -58,7 +58,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
-### 📂 Featured Repositories
+### Featured Repositories
 
 | Repository                                                                                                | Description | Main Contributors |
 |-----------------------------------------------------------------------------------------------------------|-------------|-------------|
@@ -69,7 +69,86 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
-### 📬 Contact
+
+<section class="repo-grid">
+  <a class="card" href="https://github.com/MehdiZD97/distributed-cellfree-isac">
+    <h3>distributed-cellfree-isac</h3>
+    <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
+    <div class="badges">
+      <img src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac" alt="stars">
+      <img src="https://img.shields.io/github/last-commit/MehdiZD97/distributed-cellfree-isac" alt="last commit">
+      <img src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac?label=main%20lang" alt="language">
+      <img src="https://img.shields.io/github/license/MehdiZD97/distributed-cellfree-isac" alt="license">
+    </div>
+    <div class="people">Main: <strong>Mehdi Zafari</strong></div>
+  </a>
+
+  <a class="card" href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">
+    <h3>SecureCoder-NR-RIS</h3>
+    <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless.</p>
+    <div class="badges">
+      <img src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS" alt="stars">
+      <img src="https://img.shields.io/github/last-commit/LS-Wireless/SecureCoder-NR-RIS" alt="last commit">
+      <img src="https://img.shields.io/github/languages/top/LS-Wireless/SecureCoder-NR-RIS?label=main%20lang" alt="language">
+      <img src="https://img.shields.io/github/license/LS-Wireless/SecureCoder-NR-RIS" alt="license">
+    </div>
+    <div class="people">Main: <strong>Haoyu Wang</strong></div>
+  </a>
+
+  <a class="card" href="https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC">
+    <h3>Multi-Domain-Optimization-for-ISAC</h3>
+    <p>EM shaping + baseband + network cooperation for ISAC via multi-domain optimization.</p>
+    <div class="badges">
+      <img src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC" alt="stars">
+      <img src="https://img.shields.io/github/last-commit/LS-Wireless/Multi-Domain-Optimization-for-ISAC" alt="last commit">
+      <img src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC?label=main%20lang" alt="language">
+      <img src="https://img.shields.io/github/license/LS-Wireless/Multi-Domain-Optimization-for-ISAC" alt="license">
+    </div>
+    <div class="people">Main: <strong>Rang Liu</strong></div>
+  </a>
+
+  <a class="card" href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">
+    <h3>ASSENT-CellFree-ISAC</h3>
+    <p>MILP + GNN-based association optimization for distributed cell-free ISAC in Python/PyTorch.</p>
+    <div class="badges">
+      <img src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC" alt="stars">
+      <img src="https://img.shields.io/github/last-commit/LS-Wireless/ASSENT-CellFree-ISAC" alt="last commit">
+      <img src="https://img.shields.io/github/languages/top/LS-Wireless/ASSENT-CellFree-ISAC?label=main%20lang" alt="language">
+      <img src="https://img.shields.io/github/license/LS-Wireless/ASSENT-CellFree-ISAC" alt="license">
+    </div>
+    <div class="people">Main: <strong>Mehdi Zafari</strong></div>
+  </a>
+</section>
+
+<style>
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin: 1rem 0;
+}
+.card {
+  display: block;
+  padding: 16px;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #fff;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 2px 6px rgba(0,0,0,.04);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0,0,0,.08);
+}
+.card h3 { margin: 0 0 .35rem; font-size: 1.05rem; }
+.card p { margin: 0 0 .75rem; color: #4b5563; font-size: .95rem; min-height: 3.5em; }
+.badges img { height: 20px; margin-right: 6px; }
+.people { margin-top: .5rem; font-size: .9rem; color: #374151; }
+</style>
+
+### Contact
 
 - 📧 swindle@uci.edu
 - 🌐 [LS Wireless Webpage](https://github.com/ls-wireless)
