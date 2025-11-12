@@ -69,7 +69,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/MehdiZD97/distributed-cellfree-isac?branch=main&cacheSeconds=3600">
+    <img alt="released" src="https://img.shields.io/badge/Released-Apr%202025-darkgreen?style=flat">
     <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac?branch=main">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
@@ -88,7 +88,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat&cacheSeconds=3600">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/SecureCoder-NR-RIS?cacheSeconds=3600">
+    <img alt="released" src="https://img.shields.io/badge/Released-Jul%202025-darkgreen?style=flat">
     <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/SecureCoder-NR-RIS?cacheSeconds=3600">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
@@ -111,7 +111,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>Multi-domain optimization integrating EM shaping, baseband processing, and network cooperation.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/Multi-Domain-Optimization-for-ISAC">
+    <img alt="released" src="https://img.shields.io/badge/Released-Sep%202025-darkgreen?style=flat">
     <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
@@ -130,7 +130,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/ASSENT-CellFree-ISAC?branch=main">
+    <img alt="released" src="https://img.shields.io/badge/Released-Nov%202025-darkgreen?style=flat">
     <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
