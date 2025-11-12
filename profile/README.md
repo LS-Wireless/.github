@@ -65,7 +65,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <tr>
     <td width="50%" valign="top">
 
-  <h4><a href="https://github.com/MehdiZD97/distributed-cellfree-isac">distributed-cellfree-isac</a></h4>
+  <h3><a href="https://github.com/MehdiZD97/distributed-cellfree-isac">distributed-cellfree-isac</a></h3>
   <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat">
@@ -84,7 +84,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 </td>
 <td width="50%" valign="top">
 
-  <h4><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h4>
+  <h3><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h3>
   <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat">
@@ -107,7 +107,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
     <td width="50%" valign="top">
 
 
-  <h4><a href="https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC">Multi-Domain-Optimization-for-ISAC</a></h4>
+  <h3><a href="https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC">Multi-Domain-Optimization-for-ISAC</a></h3>
   <p>Multi-domain optimization integrating EM shaping, baseband processing, and network cooperation.</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat">
@@ -126,7 +126,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 </td>
 <td width="50%" valign="top">
 
-  <h4><a href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">ASSENT-CellFree-ISAC</a></h4>
+  <h3><a href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">ASSENT-CellFree-ISAC</a></h3>
   <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat">
