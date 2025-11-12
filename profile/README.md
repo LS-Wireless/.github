@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>LS Wireless</h1>
-  <p><strong>Signal Processing & Optimization for Next-Gen Wireless Networks</strong></p>
+  <p><strong>Signal Processing, Optimization, & AI/ML for Next-Gen Wireless Networks</strong></p>
 </div>
 
 ---
