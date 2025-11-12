@@ -69,6 +69,90 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
+### 🔬 Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+      <h4><a href="https://github.com/MehdiZD97/distributed-cellfree-isac">distributed-cellfree-isac</a></h4>
+      <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat&cacheSeconds=3600">
+        <img alt="last commit" src="https://img.shields.io/github/last-commit/MehdiZD97/distributed-cellfree-isac?branch=main&cacheSeconds=3600">
+        <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac?cacheSeconds=3600">
+        <img alt="license" src="https://img.shields.io/github/license/MehdiZD97/distributed-cellfree-isac?cacheSeconds=3600">
+      </p>
+      <details><summary><b>Highlights</b></summary>
+        <ul>
+          <li>Cell-free architecture; ADMM-based SplitOpt/JointOpt.</li>
+          <li>End-to-end Python framework for comm+sense tradeoffs.</li>
+        </ul>
+      </details>
+      <p>👥 Main: <b>Mehdi Zafari</b></p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <h4><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h4>
+      <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat&cacheSeconds=3600">
+        <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/SecureCoder-NR-RIS?branch=main&cacheSeconds=3600">
+        <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/SecureCoder-NR-RIS?cacheSeconds=3600">
+        <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/SecureCoder-NR-RIS?cacheSeconds=3600">
+      </p>
+      <details><summary><b>Highlights</b></summary>
+        <ul>
+          <li>Proximal policy optimization tailored for secure coding.</li>
+          <li>RIS adversarial/robustness experiments.</li>
+        </ul>
+      </details>
+      <p>👥 Main: <b>Haoyu Wang</b></p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+      <h4><a href="https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC">Multi-Domain-Optimization-for-ISAC</a></h4>
+      <p>Multi-domain optimization integrating EM shaping, baseband processing, and network cooperation.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat&cacheSeconds=3600">
+        <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/Multi-Domain-Optimization-for-ISAC?branch=main&cacheSeconds=3600">
+        <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
+        <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
+      </p>
+      <details><summary><b>Highlights</b></summary>
+        <ul>
+          <li>Co-design across EM, baseband, and network layers.</li>
+          <li>ISAC-centric performance objectives.</li>
+        </ul>
+      </details>
+      <p>👥 Main: <b>Rang Liu</b></p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <h4><a href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">ASSENT-CellFree-ISAC</a></h4>
+      <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat&cacheSeconds=3600">
+        <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/ASSENT-CellFree-ISAC?branch=main&cacheSeconds=3600">
+        <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
+        <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
+      </p>
+      <details><summary><b>Highlights</b></summary>
+        <ul>
+          <li>MILP supervision → GNN policy for real-time association.</li>
+          <li>Interference-aware, scalable to large CF-ISAC networks.</li>
+        </ul>
+      </details>
+      <p>👥 Main: <b>Mehdi Zafari</b></p>
+
+    </td>
+  </tr>
+</table>
 
 ### Contact
 
