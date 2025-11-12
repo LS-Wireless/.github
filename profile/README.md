@@ -121,7 +121,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat&cacheSeconds=3600">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/Multi-Domain-Optimization-for-ISAC?branch=main">
     <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC">
-    <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/Multi-Domain-Optimization-for-ISAC?branch=main">
+    <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
   </p>
   <details><summary><b>Highlights</b></summary>
     <ul>
