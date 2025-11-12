@@ -70,7 +70,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat">
     <img alt="released" src="https://img.shields.io/badge/Released-Apr%202025-darkgreen?style=flat">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac?branch=main">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
   <details><summary><b>Highlights</b></summary>
@@ -89,7 +89,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat&cacheSeconds=3600">
     <img alt="released" src="https://img.shields.io/badge/Released-Jul%202025-darkgreen?style=flat">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/SecureCoder-NR-RIS?cacheSeconds=3600">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
   <details><summary><b>Highlights</b></summary>
@@ -112,7 +112,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat">
     <img alt="released" src="https://img.shields.io/badge/Released-Sep%202025-darkgreen?style=flat">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-MATLAB-orange?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
   <details><summary><b>Highlights</b></summary>
@@ -131,7 +131,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat">
     <img alt="released" src="https://img.shields.io/badge/Released-Nov%202025-darkgreen?style=flat">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python%20%C2%B7%20PyTorch%20%C2%B7%20JSON-316192?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
   <details><summary><b>Highlights</b></summary>
