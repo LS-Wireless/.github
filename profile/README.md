@@ -89,7 +89,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <h3><a href="https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC">Multi-Domain-Optimization-for-ISAC</a></h3>
   <p>Multi-domain optimization integrating EM shaping, baseband processing, and network cooperation.</p>
   <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?branch=main&style=flat">
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat">
     <img alt="released" src="https://img.shields.io/badge/Released-Sep%202025-darkgreen?style=flat">
     <img alt="lang" src="https://img.shields.io/badge/Lang-MATLAB-orange?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
