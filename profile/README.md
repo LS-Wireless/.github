@@ -78,7 +78,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/MehdiZD97/distributed-cellfree-isac?branch=main&cacheSeconds=3600">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac">
+    <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac?branch=main">
     <img alt="license" src="https://img.shields.io/github/license/MehdiZD97/distributed-cellfree-isac?cacheSeconds=3600">
   </p>
   <details><summary><b>Highlights</b></summary>
