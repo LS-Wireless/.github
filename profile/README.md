@@ -76,9 +76,9 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <h4><a href="https://github.com/MehdiZD97/distributed-cellfree-isac">distributed-cellfree-isac</a></h4>
   <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
   <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat&cacheSeconds=3600">
+    <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/MehdiZD97/distributed-cellfree-isac?branch=main&cacheSeconds=3600">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac?cacheSeconds=3600">
+    <img alt="main language" src="https://img.shields.io/github/languages/top/MehdiZD97/distributed-cellfree-isac">
     <img alt="license" src="https://img.shields.io/github/license/MehdiZD97/distributed-cellfree-isac?cacheSeconds=3600">
   </p>
   <details><summary><b>Highlights</b></summary>
@@ -120,8 +120,8 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Multi-Domain-Optimization-for-ISAC?style=flat&cacheSeconds=3600">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/Multi-Domain-Optimization-for-ISAC?branch=main&cacheSeconds=3600">
-    <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
-    <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/Multi-Domain-Optimization-for-ISAC?cacheSeconds=3600">
+    <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/Multi-Domain-Optimization-for-ISAC">
+    <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/Multi-Domain-Optimization-for-ISAC">
   </p>
   <details><summary><b>Highlights</b></summary>
     <ul>
@@ -137,7 +137,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <h4><a href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">ASSENT-CellFree-ISAC</a></h4>
   <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
   <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat&cacheSeconds=3600">
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/ASSENT-CellFree-ISAC?branch=main&cacheSeconds=3600">
     <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
     <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
