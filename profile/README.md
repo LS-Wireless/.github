@@ -87,7 +87,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <h4><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h4>
   <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
   <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat&cacheSeconds=3600">
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat">
     <img alt="released" src="https://img.shields.io/badge/Released-Jul%202025-darkgreen?style=flat">
     <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
