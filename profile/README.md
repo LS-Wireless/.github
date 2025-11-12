@@ -138,7 +138,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
   <p>
     <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?branch=main">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/ASSENT-CellFree-ISAC?branch=main&cacheSeconds=3600">
+    <img alt="last commit" src="https://img.shields.io/github/last-commit/LS-Wireless/ASSENT-CellFree-ISAC?branch=main">
     <img alt="main language" src="https://img.shields.io/github/languages/top/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
     <img alt="license" src="https://img.shields.io/github/license/LS-Wireless/ASSENT-CellFree-ISAC?cacheSeconds=3600">
   </p>
