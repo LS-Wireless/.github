@@ -62,50 +62,29 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 
 <table>
+
   <tr>
     <td width="50%" valign="top">
 
-  <h3><a href="https://github.com/MehdiZD97/distributed-cellfree-isac">distributed-cellfree-isac</a></h3>
-  <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
+  <h3><a href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">ASSENT-CellFree-ISAC</a></h3>
+  <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
   <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat">
-    <img alt="released" src="https://img.shields.io/badge/Released-Apr%202025-darkgreen?style=flat">
-    <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat">
+    <img alt="released" src="https://img.shields.io/badge/Released-Nov%202025-darkgreen?style=flat">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python%20%C2%B7%20PyTorch%20%C2%B7%20JSON-316192?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
   <details><summary><b>Highlights</b></summary>
     <ul>
-      <li>Cell-free architecture; ADMM-based SplitOpt/JointOpt.</li>
-      <li>End-to-end Python framework for comm+sense tradeoffs.</li>
+      <li>MILP supervision → GNN policy for real-time association.</li>
+      <li>Interference-aware, scalable to large CF-ISAC networks.</li>
     </ul>
   </details>
   <p>👥 Main: <b>Mehdi Zafari</b></p>
 
+
 </td>
 <td width="50%" valign="top">
-
-  <h3><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h3>
-  <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
-  <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat">
-    <img alt="released" src="https://img.shields.io/badge/Released-Jul%202025-darkgreen?style=flat">
-    <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
-    <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
-  </p>
-  <details><summary><b>Highlights</b></summary>
-    <ul>
-      <li>Proximal policy optimization tailored for secure coding.</li>
-      <li>RIS adversarial/robustness experiments.</li>
-    </ul>
-  </details>
-  <p>👥 Main: <b>Haoyu Wang</b></p>
-
-</td>
-
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 
   <h3><a href="https://github.com/LS-Wireless/Multi-Domain-Optimization-for-ISAC">Multi-Domain-Optimization-for-ISAC</a></h3>
   <p>Multi-domain optimization integrating EM shaping, baseband processing, and network cooperation.</p>
@@ -124,20 +103,44 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   <p>👥 Main: <b>Rang Liu</b></p>
 
 </td>
-<td width="50%" valign="top">
 
-  <h3><a href="https://github.com/LS-Wireless/ASSENT-CellFree-ISAC">ASSENT-CellFree-ISAC</a></h3>
-  <p>MILP + GNN-based association optimization for distributed cell-free ISAC (Python/PyTorch).</p>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+  <h3><a href="https://github.com/LS-Wireless/SecureCoder-NR-RIS">SecureCoder-NR-RIS</a></h3>
+  <p>Enhanced-PPO SecureCoder for robust RIS-aided secure wireless links.</p>
   <p>
-    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/ASSENT-CellFree-ISAC?style=flat">
-    <img alt="released" src="https://img.shields.io/badge/Released-Nov%202025-darkgreen?style=flat">
-    <img alt="lang" src="https://img.shields.io/badge/Lang-Python%20%C2%B7%20PyTorch%20%C2%B7%20JSON-316192?style=flat">
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/SecureCoder-NR-RIS?style=flat">
+    <img alt="released" src="https://img.shields.io/badge/Released-Jul%202025-darkgreen?style=flat">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
   </p>
   <details><summary><b>Highlights</b></summary>
     <ul>
-      <li>MILP supervision → GNN policy for real-time association.</li>
-      <li>Interference-aware, scalable to large CF-ISAC networks.</li>
+      <li>Proximal policy optimization tailored for secure coding.</li>
+      <li>RIS adversarial/robustness experiments.</li>
+    </ul>
+  </details>
+  <p>👥 Main: <b>Haoyu Wang</b></p>
+
+
+</td>
+<td width="50%" valign="top">
+
+  <h3><a href="https://github.com/MehdiZD97/distributed-cellfree-isac">distributed-cellfree-isac</a></h3>
+  <p>Decentralized simulation framework for joint beamforming and power allocation in ISAC systems.</p>
+  <p>
+    <img alt="stars" src="https://img.shields.io/github/stars/MehdiZD97/distributed-cellfree-isac?style=flat">
+    <img alt="released" src="https://img.shields.io/badge/Released-Apr%202025-darkgreen?style=flat">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python-316192?style=flat">
+    <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
+  </p>
+  <details><summary><b>Highlights</b></summary>
+    <ul>
+      <li>Cell-free architecture; ADMM-based SplitOpt/JointOpt.</li>
+      <li>End-to-end Python framework for comm+sense tradeoffs.</li>
     </ul>
   </details>
   <p>👥 Main: <b>Mehdi Zafari</b></p>
@@ -145,6 +148,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 </td>
 
   </tr>
+
 </table>
 
 ---
