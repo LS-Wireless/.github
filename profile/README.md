@@ -60,7 +60,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
-### Featured Repositories
+## Featured Repositories
 
 
 <table>
