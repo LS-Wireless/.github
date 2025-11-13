@@ -21,7 +21,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
-### 👥 Team Members
+### 👥 Team Members:
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   </tr>
 </table>
 
-#### 🧑‍🎓 PhD Students
+### 🧑‍🎓 PhD Students
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   </tr>
 </table>
 
-#### 🧑‍🔬 Postdoctoral Researchers
+### 🧑‍🔬 Postdoctoral Researchers
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 </table>
 
 
-#### 🎓 Alumni and Former Members
+### 🎓 Alumni and Former Members
 
 - **Jiaqi Xu** – Postdoctoral Researcher (2023-2025), now at [APPLE](https://www.apple.com/)  
   Links: [Website](https://jazielxu.github.io/) • [G-Scholar](https://scholar.google.com/citations?hl=en&user=5f5fmnEAAAAJ)
