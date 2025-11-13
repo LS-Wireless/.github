@@ -55,6 +55,8 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   Links: [Website](https://jazielxu.github.io/) • [G-Scholar](https://scholar.google.com/citations?hl=en&user=5f5fmnEAAAAJ)
 - **Hyuckjin Choi** – Postdoctoral Researcher (2024-2025), now at [LG Electronics](https://www.lg.com/global/)  
   Links: [Website](https://sites.google.com/view/hyuckjinchoi/home?authuser=0) • [G-Scholar](https://scholar.google.com/citations?user=KRGe0tIAAAAJ&hl=en&authuser=2&oi=sra)
+- **Van Ly Nguyen** – Postdoctoral Researcher (2022-2025), now Assistant Professor at [The University of Kansas](https://www.ku.edu/)  
+  Links: [Website](https://people.eecs.ku.edu/~v532n390/) • [G-Scholar](https://scholar.google.com/citations?user=J9_1LnkAAAAJ&hl=en)
 
 ---
 
