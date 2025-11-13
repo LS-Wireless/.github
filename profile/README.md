@@ -7,7 +7,7 @@
 
 ---
 
-### 🔬 About Us
+## 🔬 About Us
 
 **LS Wireless** is a research group at the University of California, Irvine, focusing on signal processing, optimization, and machine learning for next-generation wireless communication systems. Our research is motivated by emerging technologies in:
 
@@ -21,7 +21,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
-### 👥 Team Members:
+## 👥 Team Members:
 
 <table>
   <tr>
