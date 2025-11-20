@@ -33,7 +33,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 <table>
   <tr>
-    <td align="center"><img src="/assets/mz_bio2.png" width="100"><br><b>Mehdi Zafari</b><br><sub>PhD Student</sub><br><a href="https://mehdizd97.github.io">[Website]</a> • <a href="https://scholar.google.com/citations?user=lKiB9vIAAAAJ">[G-Scholar]</a></td>
+    <td align="center"><img src="/assets/mz_bio.png" width="100"><br><b>Mehdi Zafari</b><br><sub>PhD Student</sub><br><a href="https://mehdizd97.github.io">[Website]</a> • <a href="https://scholar.google.com/citations?user=lKiB9vIAAAAJ">[G-Scholar]</a></td>
     <td align="center"><img src="/assets/bilal_bio.jpeg" width="100"><br><b>Muhammad Bilal</b><br><sub>PhD Student</sub><br><a href="https://www.linkedin.com/in/muhammad-bilal-a5a4b0135/">[Website]</a> • <a href="https://scholar.google.com/citations?user=ZWQPQNsvMc4C&hl=en">[G-Scholar]</a></td>
     <td align="center"><img src="/assets/wang_bio.jpg" width="100"><br><b>Haoyu Wang</b><br><sub>PhD Student</sub><br><a href="https://orcid.org/0000-0002-0161-1781">[Website]</a> • <a href="https://scholar.google.com/citations?user=CLoL-i4AAAAJ&hl=en">[G-Scholar]</a></td>
     <td align="center"><img src="/assets/placeholder.png" width="100"><br><b>Chen Yang</b><br><sub>PhD Student</sub><br> </td>
