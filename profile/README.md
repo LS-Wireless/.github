@@ -48,6 +48,14 @@ We aim to bridge theory and implementation through analytical modeling, simulati
   </tr>
 </table>
 
+### ✈️ Visiting Researchers 
+
+<table>
+  <tr>
+    <td align="center"><img src="/assets/mengyuan_bio.jpg" width="100"><br><b>Mengyuan Ma</b><br><sub>Visitor</sub><br><a href="https://www.linkedin.com/in/mengyuan-ma/">[Website]</a> • <a href="https://scholar.google.com/citations?hl=zh-CN&user=8dT01-gAAAAJ">[G-Scholar]</a></td>
+  </tr>
+</table>
+
 
 ### 🎓 Alumni and Former Members
 
