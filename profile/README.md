@@ -1,15 +1,18 @@
-
-
 <div align="center">
-  <h1>LS Wireless</h1>
+  <h1>LS Wireless – Wireless Communications Research Group at UC Irvine</h1>
   <p><strong>Signal Processing, Optimization, & AI/ML for Next-Gen Wireless Networks</strong></p>
+  <p>
+    Led by <a href="https://engineering.uci.edu/users/lee-swindlehurst"><strong>Prof. Lee Swindlehurst</strong></a> •
+    <a href="https://www.uci.edu/">University of California, Irvine</a> •
+    <a href="https://www.ece.uci.edu/">Department of Electrical Engineering & Computer Science</a>
+  </p>
 </div>
 
 ---
 
 ## 🔬 About Us
 
-**LS Wireless** is a research group at the University of California, Irvine, focusing on signal processing, optimization, and machine learning for next-generation wireless communication systems. Our research is motivated by emerging technologies in:
+**LS Wireless** is a wireless communications and signal processing research group at the **University of California, Irvine (UCI)**, led by Professor A. Lee Swindlehurst. We focus on signal processing, optimization, and machine learning for next-generation wireless communication systems. Our research is motivated by emerging technologies in:
 
 - Integrated Sensing and Communication (ISAC)
 - Reconfigurable Intelligent Surfaces (RIS)
@@ -167,8 +170,10 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 ### Contact
 
 - 📧 swindle@uci.edu
-- 🌐 [LS Wireless Webpage](https://github.com/ls-wireless)
+- 🌐 [LS Wireless GitHub Organization](https://github.com/LS-Wireless)
+- 🏛️ [UCI EECS Department](https://www.ece.uci.edu/)
+- 🔗 [Prof. Lee Swindlehurst – Faculty Page](https://engineering.uci.edu/users/lee-swindlehurst)
 
 ---
 
-<sub>© 2025 LS Wireless Group • University of California, Irvine</sub>
+<sub>© 2025 LS Wireless Group • University of California, Irvine (UCI) • Wireless Communications, Signal Processing, and Machine Learning Research</sub>
