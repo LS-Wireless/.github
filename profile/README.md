@@ -73,6 +73,7 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 <table>
 
+
   <tr>
     <td width="50%" valign="top">
 
@@ -159,6 +160,26 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 </td>
 
   </tr>
+
+<tr>
+    <td width="50%" valign="top">
+
+  <h3><a href="https://github.com/LS-Wireless/Robust-Wildfire-Forecasting">Robust-Wildfire-Forecasting</a></h3>
+  <p>A two-stage learning framework for wildfire forecasting under partial observability.</p>
+  <p>
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Robust-Wildfire-Forecasting?style=flat">
+    <img alt="released" src="https://img.shields.io/badge/Released-Mar%202026-darkgreen?style=flat">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-Python%20%C2%B7%20PyTorch-316192?style=flat">
+    <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
+  </p>
+  <details><summary><b>Highlights</b></summary>
+    <ul>
+      <li>Stage 1: Recover a plausible clean historical fire sequence from corrupted observations</li>
+      <li>Stage 2: Predict future wildfire spread from the reconstructed sequence</li>
+    </ul>
+  </details>
+  <p>👥 Main: <b>Mehdi Zafari, Chen Yang</b></p>
+</tr>
 
 </table>
 
