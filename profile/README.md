@@ -179,6 +179,27 @@ We aim to bridge theory and implementation through analytical modeling, simulati
     </ul>
   </details>
   <p>👥 Main: <b>Mehdi Zafari, Chen Yang</b></p>
+</td>
+
+<td width="50%" valign="top">
+
+  <h3><a href="https://github.com/LS-Wireless/Clutter-Aware-ISAC-Tutorial">Clutter-Aware-ISAC-Tutorial</a></h3>
+  <p>Simulation code accompanying the Proceedings of the IEEE tutorial on clutter-aware ISAC.</p>
+  <p>
+    <img alt="stars" src="https://img.shields.io/github/stars/LS-Wireless/Clutter-Aware-ISAC-Tutorial?style=flat">
+    <img alt="released" src="https://img.shields.io/badge/Released-Mar%202026-darkgreen?style=flat">
+    <img alt="lang" src="https://img.shields.io/badge/Lang-MATLAB-orange?style=flat">
+    <img alt="license" src="https://img.shields.io/badge/License-MIT-green?style=flat">
+  </p>
+  <details><summary><b>Highlights</b></summary>
+    <ul>
+      <li>A unified wideband MIMO-OFDM signal model that captures both cold clutter (environmental backscatter of the probing waveform) and hot clutter (external interference reflections) across the space, time, and frequency domains.</li>
+      <li>R. Liu, P. Li, M. Li, and A. L. Swindlehurst, "Clutter-aware integrated sensing and communication: Models, methods, and future directions," Proc. IEEE, to appear, 2026.</li>
+    </ul>
+  </details>
+  <p>👥 Main: <b>Rang Liu</b></p>
+</td>
+
 </tr>
 
 </table>
