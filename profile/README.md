@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>LS Wireless</h1>
+  <h1>LS Wireless Lab at UC Irvine</h1>
   <p><strong>Signal Processing, Optimization, & AI/ML for Next-Gen Wireless Networks</strong></p>
 </div>
 
@@ -9,7 +9,7 @@
 
 ## 🔬 About Us
 
-**LS Wireless** is a research group at the University of California, Irvine, focusing on signal processing, optimization, and machine learning for next-generation wireless communication systems. Our research is motivated by emerging technologies in:
+**LS Wireless Lab** is a research group at the University of California, Irvine, focusing on signal processing, optimization, and machine learning for next-generation wireless communication systems. Our research is motivated by emerging technologies in:
 
 - Integrated Sensing and Communication (ISAC)
 - Reconfigurable Intelligent Surfaces (RIS)
@@ -213,4 +213,4 @@ We aim to bridge theory and implementation through analytical modeling, simulati
 
 ---
 
-<sub>© 2025 LS Wireless Group • University of California, Irvine</sub>
+<sub>© 2026 LS Wireless Lab • University of California, Irvine</sub>
